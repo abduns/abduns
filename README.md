@@ -15,15 +15,17 @@ I'm an indie maker and full-stack developer based in **Jakarta, Indonesia** 🇮
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Open Source Packages
 
-| Project | Description |
-|--------|-------------|
-| [qrcode](https://github.com/abduns/qrcode) | Zero-dependency QR Code generator for PHP 8.2+ (ISO/IEC 18004 byte-exact) |
-| [laravel-qrcode](https://github.com/abduns/laravel-qrcode) | Laravel 11/12 bridge for abduns/qrcode with Blade directive & macros |
-| [laravel-fit-reader](https://github.com/abduns/laravel-fit-reader) | Laravel package to read and parse Garmin .fit activity files |
-| [laravel-gpx-reader](https://github.com/abduns/laravel-gpx-reader) | Laravel package for reading and parsing GPX files |
-| [hugeicons-flux](https://github.com/abduns/hugeicons-flux) | HugeIcons integration for Laravel Flux (Blade components) |
+| Package | Description | Stats |
+|---------|-------------|-------|
+| [abduns/qrcode](https://github.com/abduns/qrcode) | Zero-dependency QR Code generator for PHP 8.2+ (ISO/IEC 18004 byte-exact) | ![Version](https://img.shields.io/packagist/v/abduns/qrcode?style=flat) ![Downloads](https://img.shields.io/packagist/dt/abduns/qrcode?style=flat) ![Stars](https://img.shields.io/github/stars/abduns/qrcode?style=flat) ![License](https://img.shields.io/packagist/l/abduns/qrcode?style=flat) |
+| [abduns/laravel-qrcode](https://github.com/abduns/laravel-qrcode) | Laravel 12/13 bridge for abduns/qrcode with Blade directive & macros | ![Version](https://img.shields.io/packagist/v/abduns/laravel-qrcode?style=flat) ![Downloads](https://img.shields.io/packagist/dt/abduns/laravel-qrcode?style=flat) ![Stars](https://img.shields.io/github/stars/abduns/laravel-qrcode?style=flat) ![License](https://img.shields.io/packagist/l/abduns/laravel-qrcode?style=flat) |
+| [abduns/vcard](https://github.com/abduns/vcard) | Framework-agnostic vCard 3.0/4.0 generator for PHP 8.2+ with zero dependencies | ![Version](https://img.shields.io/packagist/v/abduns/vcard?style=flat) ![Downloads](https://img.shields.io/packagist/dt/abduns/vcard?style=flat) ![Stars](https://img.shields.io/github/stars/abduns/vcard?style=flat) ![License](https://img.shields.io/packagist/l/abduns/vcard?style=flat) |
+| [abduns/laravel-vcard](https://github.com/abduns/laravel-vcard) | Laravel bridge for abduns/vcard with Facade, ServiceProvider & response macros | ![Version](https://img.shields.io/packagist/v/abduns/laravel-vcard?style=flat) ![Downloads](https://img.shields.io/packagist/dt/abduns/laravel-vcard?style=flat) ![Stars](https://img.shields.io/github/stars/abduns/laravel-vcard?style=flat) ![License](https://img.shields.io/packagist/l/abduns/laravel-vcard?style=flat) |
+| [abduns/laravel-fit-reader](https://github.com/abduns/laravel-fit-reader) | Laravel package to read and parse Garmin .fit activity files | ![Version](https://img.shields.io/packagist/v/abduns/laravel-fit-reader?style=flat) ![Downloads](https://img.shields.io/packagist/dt/abduns/laravel-fit-reader?style=flat) ![Stars](https://img.shields.io/github/stars/abduns/laravel-fit-reader?style=flat) ![License](https://img.shields.io/packagist/l/abduns/laravel-fit-reader?style=flat) |
+| [abduns/laravel-gpx-reader](https://github.com/abduns/laravel-gpx-reader) | Laravel package for reading and parsing GPX 1.1 files | ![Version](https://img.shields.io/packagist/v/abduns/laravel-gpx-reader?style=flat) ![Downloads](https://img.shields.io/packagist/dt/abduns/laravel-gpx-reader?style=flat) ![Stars](https://img.shields.io/github/stars/abduns/laravel-gpx-reader?style=flat) ![License](https://img.shields.io/packagist/l/abduns/laravel-gpx-reader?style=flat) |
+| [abduns/hugeicons-flux](https://github.com/abduns/hugeicons-flux) | HugeIcons integration for Laravel Flux — 5,100+ Stroke Rounded icons as Blade components | ![Version](https://img.shields.io/packagist/v/abduns/hugeicons-flux?style=flat) ![Downloads](https://img.shields.io/packagist/dt/abduns/hugeicons-flux?style=flat) ![Stars](https://img.shields.io/github/stars/abduns/hugeicons-flux?style=flat) ![License](https://img.shields.io/packagist/l/abduns/hugeicons-flux?style=flat) |
 
 ---
 
@@ -52,8 +54,8 @@ I'm an indie maker and full-stack developer based in **Jakarta, Indonesia** 🇮
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abduns&show_icons=true&theme=dark&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduns&layout=compact&theme=dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abduns&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduns&layout=compact&theme=dark&hide_border=true&langs_count=8" height="160" />
 </p>
 
 ---
