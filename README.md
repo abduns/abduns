@@ -49,14 +49,6 @@ I'm an indie maker and full-stack developer based in **Jakarta, Indonesia** 🇮
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abduns&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduns&layout=compact&theme=dark&hide_border=true&langs_count=8" height="160" />
-</p>
 
 ---
 
