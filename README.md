@@ -80,7 +80,6 @@ Things I'm building that aren't open source (yet).
 
 **UI Kits & Games**
 
-- **Hana UI** — Livewire-native UI kit for Laravel with `<hana:*>` components (coming soon)
 - **Lanedun** — top-down traffic survival game for the web (three.js) and iOS
 
 ---
