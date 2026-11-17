@@ -54,36 +54,6 @@ Open-source email platform I'm building under [@Maildun](https://github.com/Mail
 | [abduns/classic-footnotes](https://github.com/abduns/classic-footnotes) | WordPress footnotes & references with inline source markers, hover popovers and a collected sources list | ![Stars](https://img.shields.io/github/stars/abduns/classic-footnotes?style=flat) |
 | [swanagata/copas](https://github.com/swanagata/copas) | WordPress plugin adding a customizable "Copy to Clipboard" button to the Classic Editor | ![Stars](https://img.shields.io/github/stars/swanagata/copas?style=flat) |
 
----
-
-## 🔒 Private Projects & Products
-
-Things I'm building that aren't open source (yet).
-
-**SaaS & Platforms**
-
-- **Postdun** — plan, write, schedule and publish social media posts across X, LinkedIn, Facebook, Instagram & Threads
-- **Maildun Platform** — the hosted, multi-tenant side of Maildun, plus Maildun Forms
-- **Skydun Managed WP** — managed WordPress hosting with a Go operations agent, headless and security-hardening plugins
-- **Workpace** — workspace & team productivity SaaS
-- **Joki Strava** — Laravel + Livewire app for runners to sketch and share Strava-ready routes
-- **Starter Kit** — my Laravel + Inertia + React multi-tenant SaaS foundation behind most of the above
-
-**macOS & iOS Apps**
-
-- **Dipshot** — macOS menu bar screenshot tool with area/window/full-page capture and a post-capture editor
-- **Bun** — native macOS image converter (WebP, JPG, PNG) with batch processing, presets & a Finder action
-- **Daivy** — Pomodoro timer for macOS
-- **Solodun** — Tauri 2 + React edition of Solo
-- **Screen Recorder** — native macOS screen recording app
-- **Invoice** — desktop invoicing app
-
-**UI Kits & Games**
-
-- **Lanedun** — top-down traffic survival game for the web (three.js) and iOS
-
----
-
 ## 🧰 Tech Stack
 
 **Languages**
